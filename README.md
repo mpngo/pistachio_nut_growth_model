@@ -1,4 +1,5 @@
 # Pistachio Growth Model Shiny App
+### **Live App:** https://mpngo0404.shinyapps.io/PistachioApp/
 
 An interactive Shiny application for visualizing **pistachio nut development using Growing Degree Days (GDD)**.  
 This app implements a suite of statistically optimized growth models covering **kernel dry weight, kernel area, nut area, texture (hull/shell/kernel firmness), and nut + kernel color trajectories (L\*, a\*, b\*)**, derived from multi-year phenotyping data.
