@@ -18,7 +18,7 @@ library(rsconnect)
 
 # Load spline model
 spline_model <- readRDS("kernel_dw_model.rds")
-token <- token
+token <- "token"
 
 # Unified GDD threshold
 GDD_MAX <- 5000
